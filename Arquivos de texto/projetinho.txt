@@ -1,0 +1,107 @@
+flamengo Vitorias: 28 
+ Empates 10Gols pros: 100
+ Gols Contra: 45atletico  Vitorias: 20 
+ Empates 18Gols pros: 89
+ Gols Contra: 32corinthians  Vitorias: 18 
+ Empates 20Gols pros: 89
+ Gols Contra: 28fortaleza  Vitorias: 22 
+ Empates 16Gols pros: 79
+ Gols Contra: 21palmeiras  Vitorias: 15 
+ Empates 23Gols pros: 68
+ Gols Contra: 43flamengo 
+Vitorias: 19 
+ Empates 19
+Gols pros: 100
+ Gols Contra: 21atletico  
+Vitorias: 14 
+ Empates 2
+Gols pros: 92
+ Gols Contra: 59palmeiras  
+Vitorias: 11 
+ Empates 19
+Gols pros: 70
+ Gols Contra: 35fortaleza 
+Vitorias: 20 
+ Empates 18
+Gols pros: 102
+ Gols Contra: 19corinthians 
+Vitorias: 16 
+ Empates 18
+Gols pros: 80
+ Gols Contra: 18
+ Flamengo
+Vitorias: 30 
+ Empates 8 
+
+Gols pros: 99
+ Gols Contra: 29 
+
+ Atletico MG
+Vitorias: 28 
+ Empates 10 
+
+Gols pros: 89
+ Gols Contra: 32 
+
+ Fortaleza
+Vitorias: 29 
+ Empates 9 
+
+Gols pros: 102
+ Gols Contra: 28 
+
+ Palmeiras 
+Vitorias: 27 
+ Empates 11 
+
+Gols pros: 79
+ Gols Contra: 45 
+
+ Bragantino
+Vitorias: 26 
+ Empates 12 
+
+Gols pros: 65
+ Gols Contra: 33 
+
+ Flamengo
+Vitorias: 22 
+ Empates 16 
+
+Gols pros: 109
+ Gols Contra: 32 
+
+ Atletico MG
+Vitorias: 21 
+ Empates 17 
+
+Gols pros: 100
+ Gols Contra: 54 
+
+ Fortaleza
+Vitorias: 19 
+ Empates 19 
+
+Gols pros: 99
+ Gols Contra: 43 
+
+ Palmeiras
+Vitorias: 15 
+ Empates 23 
+
+Gols pros: 73
+ Gols Contra: 59 
+
+ Corinthians
+Vitorias: 17 
+ Empates 21 
+
+Gols pros: 80
+ Gols Contra: 37 
+
+ Ceara
+Vitorias: 14 
+ Empates 24 
+
+Gols pros: 77
+ Gols Contra: 43 

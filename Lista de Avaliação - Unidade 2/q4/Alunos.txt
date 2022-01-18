@@ -1,0 +1,5 @@
+|Nome: ana |Nota : 5|
+|Nome: carla |Nota : 9|
+|Nome: luan |Nota :10|
+|Nome: pamela |Nota : 8|
+|Nome: raquel |Nota :10|

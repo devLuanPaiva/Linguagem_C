@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="estudante\estudante.h" Top="No" Tabpos="1" TopLine="1">
+			<Cursor Line="5" Column="26"/>
+		</File>
+		<File Name="estudante\estudante.c" Top="No" Tabpos="2" TopLine="254">
+			<Cursor Line="228" Column="1"/>
+			<Selection Line="236" Column="2"/>
+		</File>
+		<File Name="main.c" Top="No" Tabpos="3" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+	</Files>
+	<Folders>
+		<Folder Name="estudante" Expanded="Yes"/>
+	</Folders>
+</Layout>

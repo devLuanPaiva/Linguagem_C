@@ -1,0 +1,12 @@
+Turma: l
+Matricula: 1010
+Nome: Luan Alves
+Media: 9.7
+Turma: l
+Matricula: 5500
+Nome: lika
+Media: 9.2
+Turma: l
+Matricula: 8483
+Nome: fernanda
+Media: 7.7

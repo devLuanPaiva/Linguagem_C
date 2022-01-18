@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="Q1_main.c" Top="No" Tabpos="1" TopLine="1">
+			<Cursor Line="5" Column="1"/>
+			<Selection Line="9" Column="1"/>
+		</File>
+		<File Name="funcionarios\Q1_listaFunc.h" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="8" Column="1"/>
+		</File>
+		<File Name="funcionarios\Q1_listaFunc.c" Top="Yes" Tabpos="3" TopLine="1">
+			<Cursor Line="9" Column="1"/>
+		</File>
+	</Files>
+	<Folders>
+		<Folder Name="funcionarios" Expanded="Yes"/>
+	</Folders>
+</Layout>

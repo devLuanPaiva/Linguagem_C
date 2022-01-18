@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="Q2_pasta\Q2.h" Top="No" Tabpos="1" TopLine="1">
+			<Cursor Line="13" Column="1"/>
+		</File>
+		<File Name="Q2_main.c" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="40" Column="44"/>
+		</File>
+		<File Name="Q2_pasta\Q2.c" Top="Yes" Tabpos="3" TopLine="1">
+			<Cursor Line="9" Column="1"/>
+		</File>
+	</Files>
+	<Folders>
+		<Folder Name="Q2_pasta" Expanded="Yes"/>
+	</Folders>
+</Layout>
