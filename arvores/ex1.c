@@ -41,6 +41,7 @@ void inserirDireita(No *no, int valor){
             inserirEsquerda(no->direita, valor);
         }
     }
+    return 1;
 }
 void inserir(ArvB *arv, int valor){
     if(arv -> raiz == NULL){
@@ -56,11 +57,12 @@ void inserir(ArvB *arv, int valor){
             inserirDireita(arv->raiz, valor);
         }
     }
+
 }
 void imprimir(No *raiz){
     if(raiz != NULL){
-        printf("%d", raiz->conteudo);
         imprimir(raiz->esquerda);
+        printf("%d", raiz->conteudo);
         imprimir(raiz->direita);
     }
 }
@@ -91,5 +93,4 @@ int main(){
                 break;
         }
     }while(op != 0);
-    return 0;
 }
